@@ -13,7 +13,6 @@ Fake news detection is a critical task in today's digital world, where misinform
 7. [Installation](#installation)
 8. [Usage](#usage)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Project Overview
 This project implements and compares the performance of several machine learning algorithms to detect fake news. The algorithms used include:
@@ -80,7 +79,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk wordcloud
    ```
 2. Navigate to the project directory:
    ```bash
-   cd fake-news-detection
+   cd Fake-news-prediction
    ```
 3. Run the Jupyter Notebook or Python script to preprocess the data, train the models, and evaluate the results.
 
